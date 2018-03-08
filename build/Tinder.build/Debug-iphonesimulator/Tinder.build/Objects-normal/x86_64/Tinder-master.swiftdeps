@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "6e2a9d6a2f4a425a183f3971cb390645"
+build_time: [573863938, 117218000]
+inputs:
+  "/Users/SiD/Desktop/CS 490/Tinder/Tinder/CardsViewController.swift": [573863938, 0]
+  "/Users/SiD/Desktop/CS 490/Tinder/Tinder/AppDelegate.swift": [573863024, 0]
